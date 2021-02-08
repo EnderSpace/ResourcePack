@@ -39,6 +39,18 @@
       "predicate": {
         "custom_model_data": 40
       },
+      "model": "enderspace:item/unique/jorgitv"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "enderspace:item/undertaker/undertaker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
       "model": "minecraft:item/feather"
     }
   ]
