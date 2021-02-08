@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_porkchop"},"overrides":[{"predicate":{"custom_model_data":44},"model":"enderspace:auto_generated/baguette"},{"predicate":{"custom_model_data":45},"model":"minecraft:item/cooked_porkchop"}]}

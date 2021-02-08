@@ -1,0 +1,74 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "enderspace:item/okulary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "enderspace:item/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "enderspace:item/opaska_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "enderspace:item/opaska_armor_toughness"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "enderspace:item/opaska_attack_damage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "enderspace:item/opaska_max_health"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "enderspace:item/opaska_knockback_resistance"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "enderspace:item/opaska_luck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "enderspace:item/opaska_speed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "enderspace:item/opaska_attack_speed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/leather_horse_armor"
+    }
+  ]
+}

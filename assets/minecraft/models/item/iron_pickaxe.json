@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "enderspace:auto_generated/diamond_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "enderspace:auto_generated/netherite_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "enderspace:auto_generated/rainbow_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/iron_pickaxe"
+    }
+  ]
+}

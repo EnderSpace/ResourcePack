@@ -1,0 +1,6 @@
+{
+  "parent": "item/base/bow",
+  "textures": {
+    "layer0": "enderspace:item/rainbow_bow_2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "translation": [
+        -1,
+        13,
+        7
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "enderspace:item/uszka"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "enderspace:item/lis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "minecraft:item/feather"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_boots",
+    "layer1": "item/leather_boots_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "enderspace:item/dyeable_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/leather_boots"
+    }
+  ]
+}

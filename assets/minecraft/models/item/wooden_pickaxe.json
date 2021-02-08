@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "enderspace:auto_generated/wooden_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "enderspace:auto_generated/stone_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/wooden_pickaxe"
+    }
+  ]
+}

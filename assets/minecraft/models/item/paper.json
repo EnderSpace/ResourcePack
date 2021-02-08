@@ -1,0 +1,248 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mcicons:auto_generated/icon_left_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mcicons:auto_generated/icon_left_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mcicons:auto_generated/icon_right_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mcicons:auto_generated/icon_right_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mcicons:auto_generated/icon_up_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mcicons:auto_generated/icon_up_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mcicons:auto_generated/icon_down_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mcicons:auto_generated/icon_down_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mcicons:auto_generated/icon_next_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mcicons:auto_generated/icon_next_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mcicons:auto_generated/icon_back_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mcicons:auto_generated/icon_back_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mcicons:auto_generated/icon_cancel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "mcicons:auto_generated/icon_confirm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "mcicons:auto_generated/icon_lock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "mcicons:auto_generated/icon_unlock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "mcicons:auto_generated/icon_web"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "mcicons:auto_generated/icon_ender_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "mcicons:auto_generated/icon_refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "mcicons:auto_generated/icon_time_day"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "mcicons:auto_generated/icon_time_midnight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mcicons:auto_generated/icon_time_night"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "mcicons:auto_generated/icon_time_noon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mcicons:auto_generated/icon_time_sunrise"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mcicons:auto_generated/icon_time_sunset"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mcicons:auto_generated/icon_toggle_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "mcicons:auto_generated/icon_toggle_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mcicons:auto_generated/icon_arrow_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "mcicons:auto_generated/icon_plus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "mcicons:auto_generated/icon_color_picker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mcicons:auto_generated/icon_comment"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mcicons:auto_generated/icon_search"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mcicons:auto_generated/overworld"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mcicons:auto_generated/nether"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mcicons:auto_generated/colors"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mcicons:auto_generated/decor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "mcicons:auto_generated/1-number"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "mcicons:auto_generated/32-number"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mcicons:auto_generated/64-number"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "minecraft:item/paper"
+    }
+  ]
+}
