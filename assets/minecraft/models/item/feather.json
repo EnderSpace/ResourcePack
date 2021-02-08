@@ -51,6 +51,18 @@
       "predicate": {
         "custom_model_data": 42
       },
+      "model": "enderspace:item/unique/nikociak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "enderspace:item/unique/arknes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
       "model": "minecraft:item/feather"
     }
   ]
