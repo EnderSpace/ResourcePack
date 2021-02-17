@@ -45,19 +45,19 @@
       "predicate": {
         "custom_model_data": 41
       },
-      "model": "enderspace:item/undertaker/undertaker"
+      "model": "enderspace:item/unique/nikociak"
     },
     {
       "predicate": {
         "custom_model_data": 42
       },
-      "model": "enderspace:item/unique/nikociak"
+      "model": "enderspace:item/unique/arknes"
     },
     {
       "predicate": {
         "custom_model_data": 43
       },
-      "model": "enderspace:item/unique/arknes"
+      "model": "enderspace:item/undertaker/undertaker"
     },
     {
       "predicate": {
