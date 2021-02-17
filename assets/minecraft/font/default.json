@@ -271,6 +271,24 @@
       "type": "bitmap"
     },
     {
+      "file": "custom_esc:top_logo.png",
+      "chars": [
+        "\ue24a"
+      ],
+      "height": 70,
+      "ascent": 65,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:quit_button.png",
+      "chars": [
+        "\ue24c"
+      ],
+      "height": 70,
+      "ascent": 13,
+      "type": "bitmap"
+    },
+    {
       "file": "enderspace:font/enderspacelogo.png",
       "chars": [
         "\ue23e"

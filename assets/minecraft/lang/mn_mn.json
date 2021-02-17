@@ -1,1 +1,5 @@
-{"merchant.trades": "","item.dyed": "","item.color": ""}
+{
+  "menu.returnToGame": "§lWróć do gry",
+  "menu.disconnect": "§f§r",
+  "options.difficulty.hard": "§4HardCore"
+}
