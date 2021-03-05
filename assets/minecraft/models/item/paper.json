@@ -240,7 +240,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 40
+        "custom_model_data": 46
+      },
+      "model": "mcicons:auto_generated/bubbles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
       },
       "model": "minecraft:item/paper"
     }
