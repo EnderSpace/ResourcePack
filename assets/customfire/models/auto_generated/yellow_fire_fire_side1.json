@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_side",
+  "textures": {
+    "fire": "customfire:block/yellow/yellow_fire_0"
+  }
+}

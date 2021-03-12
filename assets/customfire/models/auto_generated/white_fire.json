@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "customfire:block/white/white_fire_0",
+    "layer1": "customfire:block/white/white_fire_1"
+  }
+}

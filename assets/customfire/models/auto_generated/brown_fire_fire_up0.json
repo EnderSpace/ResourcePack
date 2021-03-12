@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_up",
+  "textures": {
+    "fire": "customfire:block/brown/brown_fire_0"
+  }
+}

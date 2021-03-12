@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "customfire:block/purple/purple_fire_0",
+    "layer1": "customfire:block/purple/purple_fire_1"
+  }
+}

@@ -248,6 +248,90 @@
       "predicate": {
         "custom_model_data": 47
       },
+      "model": "customfire:auto_generated/black_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "customfire:auto_generated/blue_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "customfire:auto_generated/green_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "customfire:auto_generated/purple_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "customfire:auto_generated/white_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "customfire:auto_generated/magenta_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "customfire:auto_generated/yellow_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "customfire:auto_generated/lime_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "customfire:auto_generated/pink_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "customfire:auto_generated/cyan_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "customfire:auto_generated/red_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "customfire:auto_generated/brown_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "customfire:auto_generated/light_blue_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "customfire:auto_generated/dark_gray_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
       "model": "minecraft:item/paper"
     }
   ]

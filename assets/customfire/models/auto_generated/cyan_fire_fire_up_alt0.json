@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_up_alt",
+  "textures": {
+    "fire": "customfire:block/cyan/cyan_fire_0"
+  }
+}
