@@ -1,6 +1,6 @@
 name: MasterDeployCI
 on:
-  push:
+  release:
     branches:
       - master
 jobs:
