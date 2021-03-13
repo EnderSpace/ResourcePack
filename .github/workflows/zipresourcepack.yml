@@ -1,14 +1,19 @@
-name: MasterDeployCI
+name: Zip Files
+
 on:
   release:
-    branches:
-      - master
+    types: [published]
+
 jobs:
-  build:
+  zip-files:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Zip Folder
-      run: zip -r release.zip . -x ".git/*" ".github/*" ".gitignore"
-    - name: Release to Github
-      run: echo "Release"
+      - uses: actions/checkout@v2
+      - uses: papeloto/action-zip@v1
+        with:
+          files: dist/ manifest.json
+          dest: resourcepack.zip
+      - uses: actions/upload-artifact@v1
+        with:
+          name: my-artifact
+          path: ${{ github.workspace }}/resourcepack.zip
