@@ -9,12 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: papeloto/action-zip@v1
+      - uses: actions/upload-artifact@v2
         with:
-          files: dist/manifest.json
-          recursive: true
-          dest: resourcepack.zip
-      - uses: actions/upload-artifact@v1
-        with:
-          name: my-artifact
-          path: ${{ github.workspace }}/resourcepack.zip
+          name: resourcepack
+          path: ${{ github.workspace }}/*
