@@ -68,6 +68,12 @@
       "predicate": {
         "custom_model_data": 13
       },
+      "model": "enderspace:item/opaska_attack_speed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
       "model": "minecraft:item/leather_horse_armor"
     }
   ]

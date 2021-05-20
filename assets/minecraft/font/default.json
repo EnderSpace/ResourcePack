@@ -271,141 +271,6 @@
       "type": "bitmap"
     },
     {
-      "file": "custom_esc:top_logo.png",
-      "chars": [
-        "\ue24a"
-      ],
-      "height": 70,
-      "ascent": 65,
-      "type": "bitmap"
-    },
-    {
-      "file": "custom_esc:quit_button.png",
-      "chars": [
-        "\ue24c"
-      ],
-      "height": 70,
-      "ascent": 13,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/enderspacelogo.png",
-      "chars": [
-        "\ue23e"
-      ],
-      "height": 80,
-      "ascent": 60,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/twitch_tv.png",
-      "chars": [
-        "\ue238"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/youtube.png",
-      "chars": [
-        "\ue239"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/vip.png",
-      "chars": [
-        "\ue23a"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/dev.png",
-      "chars": [
-        "\ue247"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/admin.png",
-      "chars": [
-        "\ue23b"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/moderator.png",
-      "chars": [
-        "\ue23c"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/groups/chatmod.png",
-      "chars": [
-        "\ue249"
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/dragon_nameplate_fire.png",
-      "chars": [
-        "\ue248"
-      ],
-      "height": 198,
-      "ascent": 11,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/hardcore.png",
-      "chars": [
-        "\ue243"
-      ],
-      "height": 100,
-      "ascent": 100,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/bebzon.png",
-      "chars": [
-        "\ue244"
-      ],
-      "height": 200,
-      "ascent": 200,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/discord.png",
-      "chars": [
-        "\ue245"
-      ],
-      "height": 10,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "enderspace:font/shop.png",
-      "chars": [
-        "\ue246"
-      ],
-      "height": 7,
-      "ascent": 7,
-      "type": "bitmap"
-    },
-    {
       "file": "mcemojis:font/minecraft_emoji/mc_acacia_boat.png",
       "chars": [
         "\ue011"
@@ -2959,6 +2824,168 @@
       ],
       "height": 170,
       "ascent": 47,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/emoji/andusia.png",
+      "chars": [
+        "\ue24d"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/emoji/kokon.png",
+      "chars": [
+        "\ue24e"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/emoji/beziak.png",
+      "chars": [
+        "\ue24f"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:top_logo.png",
+      "chars": [
+        "\ue24a"
+      ],
+      "height": 70,
+      "ascent": 65,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:quit_button.png",
+      "chars": [
+        "\ue24c"
+      ],
+      "height": 70,
+      "ascent": 13,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/enderspacelogo.png",
+      "chars": [
+        "\ue23e"
+      ],
+      "height": 80,
+      "ascent": 60,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/twitch_tv.png",
+      "chars": [
+        "\ue238"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/youtube.png",
+      "chars": [
+        "\ue239"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/vip.png",
+      "chars": [
+        "\ue23a"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/dev.png",
+      "chars": [
+        "\ue247"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/admin.png",
+      "chars": [
+        "\ue23b"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/moderator.png",
+      "chars": [
+        "\ue23c"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/groups/chatmod.png",
+      "chars": [
+        "\ue249"
+      ],
+      "height": 8,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/dragon_nameplate_fire.png",
+      "chars": [
+        "\ue248"
+      ],
+      "height": 198,
+      "ascent": 11,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/hardcore.png",
+      "chars": [
+        "\ue243"
+      ],
+      "height": 100,
+      "ascent": 100,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/bebzon.png",
+      "chars": [
+        "\ue244"
+      ],
+      "height": 200,
+      "ascent": 200,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/discord.png",
+      "chars": [
+        "\ue245"
+      ],
+      "height": 10,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "enderspace:font/shop.png",
+      "chars": [
+        "\ue246"
+      ],
+      "height": 7,
+      "ascent": 7,
       "type": "bitmap"
     }
   ]
